@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace ConsoleFistApp
+namespace ConsoleApp1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("첫번째 프로젝트");
+            Console.WriteLine("Hello World!");
         }
     }
 }
